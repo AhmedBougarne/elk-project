@@ -1,0 +1,9 @@
+2021-06-26 16:56:50,415 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 82) WFLYUT0022: Unregistered web context: '/PowerCardv35' from server 'default-server'
+
+2021-06-26 16:56:50,526 INFO  [org.jboss.as.server.deployment] (MSC service thread 1-1) WFLYSRV0028: Stopped deployment PowerCardv35.war (runtime-name: PowerCardv35.war) in 113ms
+
+2021-06-26 16:56:50,564 INFO  [org.jboss.as.server] (External Management Request Threads -- 1) WFLYSRV0009: Undeployed "PowerCardv35.war" (runtime-name: "PowerCardv35.war")
+
+2021-06-26 16:56:50,566 INFO  [org.jboss.as.repository] (External Management Request Threads -- 1) WFLYDR0002: Content removed from location /opt/docker/jboss/jboss-eap-7.2/standalone/data/content/86/6612159ae9bcf8db0549ad53b72ae298b91124/content
+
+2021-06-26 16:56:54,044 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 83) WFLYUT0022: Unregistered web context: '/v3_31-web' from server 'default-server'
